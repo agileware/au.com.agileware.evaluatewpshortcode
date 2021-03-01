@@ -1,26 +1,26 @@
 <?xml version="1.0"?>
 <extension key="au.com.agileware.evaluatewpshortcode" type="module">
   <file>evaluatewpshortcode</file>
-  <name>WordPress Shortcode In Mailing</name>
-  <description>Evaluate WP shortcode in mailing</description>
+  <name>Evaluate WordPress Shortcode In Mailings</name>
+  <description>CiviCRM extension which enables WordPress shortcodes to be used in CiviCRM mailings, including CiviCRM mailings created using the Mosiaco editor.</description>
   <license>AGPL-3.0</license>
   <maintainer>
     <author>Agileware</author>
     <email>support@agileware.com.au</email>
   </maintainer>
   <urls>
-    <url desc="Main Extension Page">http://FIXME</url>
-    <url desc="Documentation">http://FIXME</url>
-    <url desc="Support">http://FIXME</url>
+    <url desc="Main Extension Page">https://github.com/agileware/au.com.agileware.evaluatewpshortcode</url>
+    <url desc="Documentation">https://github.com/agileware/au.com.agileware.evaluatewpshortcode</url>
+    <url desc="Support">https://agileware.com.au/contact</url>
     <url desc="Licensing">http://www.gnu.org/licenses/agpl-3.0.html</url>
   </urls>
-  <releaseDate>2020-04-09</releaseDate>
+  <releaseDate>2021-03-01</releaseDate>
   <version>1.0</version>
-  <develStage>alpha</develStage>
+  <develStage>stable</develStage>
   <compatibility>
     <ver>5.0</ver>
-  </compatibility>
-  <comments>This is a new, undeveloped module</comments>
+  </compatibility>  
+  <comments></comments>
   <classloader>
     <psr4 prefix="Civi\" path="Civi"/>
   </classloader>
