@@ -1,44 +1,29 @@
 # au.com.agileware.evaluatewpshortcode
 
-![Screenshot](/images/screenshot.png)
+[CiviCRM](https://civicrm.org) extension which enables WordPress shortcodes to be used in CiviCRM mailings, including CiviCRM mailings created using the Mosiaco editor.
 
-(*FIXME: In one or two paragraphs, describe what the extension does and why one would download it. *)
+Insert a WordPress shortcode using the same notation as used in WordPress. This will be evaluated when the mailing is sent and the return value from the WordPress shortcode inserted into the mailing.
 
-The extension is licensed under [AGPL-3.0](LICENSE.txt).
+## License
 
-## Requirements
+The extension is licensed under [AGPL-3.0](LICENSE.txt). 
 
-* PHP v7.0+
-* CiviCRM (*FIXME: Version number*)
+## About the Authors
 
-## Installation (Web UI)
+CiviCRM Priceset Frequency was developed by the team at [Agileware](https://agileware.com.au).
 
-This extension has not yet been published for installation via the web UI.
+[Agileware](https://agileware.com.au) provide a range of CiviCRM services including:
 
-## Installation (CLI, Zip)
+  * CiviCRM migration
+  * CiviCRM integration
+  * CiviCRM extension development
+  * CiviCRM support
+  * CiviCRM hosting
+  * CiviCRM remote training services
+  * And of course, CiviContact development and support
 
-Sysadmins and developers may download the `.zip` file for this extension and
-install it with the command-line tool [cv](https://github.com/civicrm/cv).
+Support your Australian [CiviCRM](https://civicrm.org) developers, [contact Agileware](https://agileware.com.au/contact) today!
 
-```bash
-cd <extension-dir>
-cv dl au.com.agileware.evaluatewpshortcode@https://github.com/FIXME/au.com.agileware.evaluatewpshortcode/archive/master.zip
-```
+![Agileware](logo/agileware-logo.png)
 
-## Installation (CLI, Git)
 
-Sysadmins and developers may clone the [Git](https://en.wikipedia.org/wiki/Git) repo for this extension and
-install it with the command-line tool [cv](https://github.com/civicrm/cv).
-
-```bash
-git clone https://github.com/FIXME/au.com.agileware.evaluatewpshortcode.git
-cv en evaluatewpshortcode
-```
-
-## Usage
-
-(* FIXME: Where would a new user navigate to get started? What changes would they see? *)
-
-## Known Issues
-
-(* FIXME *)
