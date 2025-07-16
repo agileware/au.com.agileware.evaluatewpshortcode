@@ -26,6 +26,6 @@
   </classloader>
   <civix>
     <namespace>CRM/Evaluatewpshortcode</namespace>
-    <format>22.05.2</format>
+    <format>25.01.1</format>
   </civix>
 </extension>
